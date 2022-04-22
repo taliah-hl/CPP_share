@@ -32,7 +32,7 @@ String_Calculator& String_Calculator:: Subtract(const string str)
 
 String_Calculator& String_Calculator:: Shift(const string str)
 {
-    int i=0;
+    
     int num=0;
     char c='\0';
     int len_b=str.size();
